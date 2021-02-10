@@ -2,7 +2,7 @@
 
 ## O que foi desenvolvido
 
-Uma biblioteca de cartões de filmes utilizando React. A biblioteca deverá possuir um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A biblioteca é parecida com a imagem abaixo.
+Uma biblioteca de cartões de filmes utilizando React. A biblioteca possui um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. A biblioteca é parecida com a imagem abaixo.
 
 ![image](preview.png)
 
